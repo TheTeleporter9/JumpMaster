@@ -1,4 +1,4 @@
-Sure! Here's how you can structure the README file for your **JumpMaster** game, formatted for clarity and easy use:
+Sure! Here's the updated README with the **A** and **D** keys for movement:
 
 ---
 
@@ -31,7 +31,8 @@ pgzrun main.py
 ## Gameplay
 
 ### Controls:
-- **A and D (Left/Right)**: Move left and right.
+- **A**: Move left.
+- **D**: Move right.
 - **Spacebar**: Jump (Hold to glide).
 - **Esc**: Pause the game.
 
@@ -42,7 +43,7 @@ pgzrun main.py
 
 ### How to Play:
 1. Start the game by pressing **Spacebar**.
-2. Use the **Arrow Keys** to move left or right.
+2. Use the **A** key to move left and the **D** key to move right.
 3. Press **Spacebar** to jump, holding it down to glide.
 4. Collect gems and avoid spikes on the platforms to keep your score climbing.
 5. Platforms move faster and appear more frequently as you progress.
@@ -139,11 +140,11 @@ Feel free to contribute to **JumpMaster**! Here’s how:
 - Fix bugs or enhance performance.
 
 ## Credits
-- **Game Design**: TheTeleporter9
+- **Game Design**: TheTeleporeter9
 - **Art**: Custom sprites by Kenney
-- **Sound**: Custom sound effects or sourced from pixibay
+- **Sound**: Custom sound effects or sourced from Pixibay
 - **Engine**: Powered by Pygame Zero
 
---- 
+---
 
-This should provide clear and easy-to-follow instructions for anyone wishing to get started with or contribute to your game.
+Now the movement controls are mapped to the **A** and **D** keys!
