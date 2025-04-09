@@ -139,9 +139,9 @@ Feel free to contribute to **JumpMaster**! Here’s how:
 - Fix bugs or enhance performance.
 
 ## Credits
-- **Game Design**: [Your Name]
-- **Art**: Custom sprites by [Your Name]
-- **Sound**: Custom sound effects or sourced from [sources]
+- **Game Design**: TheTeleporter9
+- **Art**: Custom sprites by Kenney
+- **Sound**: Custom sound effects or sourced from pixibay
 - **Engine**: Powered by Pygame Zero
 
 --- 
